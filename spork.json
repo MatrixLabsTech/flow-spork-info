@@ -1,38 +1,8 @@
 [
   {
-    "name": "Mainnet 14",
-    "rootHeight": 19050753,
-    "accessNode": "access.mainnet.nodes.onflow.org:9000"
-  },
-  {
-    "name": "Mainnet 13",
-    "rootHeight": 18587478,
-    "accessNode": "access-001.mainnet13.nodes.onflow.org:9000"
-  },
-  {
-    "name": "Mainnet 12",
-    "rootHeight": 17544523,
-    "accessNode": "access-001.mainnet12.nodes.onflow.org:9000"
-  },
-  {
-    "name": "Mainnet 11",
-    "rootHeight": 16755602,
-    "accessNode": "access-001.mainnet11.nodes.onflow.org:9000"
-  },
-  {
-    "name": "Mainnet 10",
-    "rootHeight": 15791891,
-    "accessNode": "access-001.mainnet10.nodes.onflow.org:9000"
-  },
-  {
-    "name": "Mainnet 9",
-    "rootHeight": 14892104,
-    "accessNode": "access-001.mainnet9.nodes.onflow.org:9000"
-  },
-  {
-    "name": "Mainnet 8",
-    "rootHeight": 13950742,
-    "accessNode": "access-001.mainnet8.nodes.onflow.org:9000"
+    "name": "Mainnet 6",
+    "rootHeight": 12609237,
+    "accessNode": "access-001.mainnet6.nodes.onflow.org:9000"
   },
   {
     "name": "Mainnet 7",
@@ -40,8 +10,38 @@
     "accessNode": "access-001.mainnet7.nodes.onflow.org:9000"
   },
   {
-    "name": "Mainnet 6",
-    "rootHeight": 12609237,
-    "accessNode": "access-001.mainnet6.nodes.onflow.org:9000"
+    "name": "Mainnet 8",
+    "rootHeight": 13950742,
+    "accessNode": "access-001.mainnet8.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 9",
+    "rootHeight": 14892104,
+    "accessNode": "access-001.mainnet9.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 10",
+    "rootHeight": 15791891,
+    "accessNode": "access-001.mainnet10.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 11",
+    "rootHeight": 16755602,
+    "accessNode": "access-001.mainnet11.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 12",
+    "rootHeight": 17544523,
+    "accessNode": "access-001.mainnet12.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 13",
+    "rootHeight": 18587478,
+    "accessNode": "access-001.mainnet13.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 14",
+    "rootHeight": 19050753,
+    "accessNode": "access.mainnet.nodes.onflow.org:9000"
   }
 ]
