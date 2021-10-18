@@ -43,5 +43,5 @@
     "name": "Mainnet 6",
     "rootHeight": 12609237,
     "accessNode": "access-001.mainnet6.nodes.onflow.org:9000"
-  },
+  }
 ]
