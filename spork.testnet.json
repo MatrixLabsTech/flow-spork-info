@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Testnet",
+    "rootHeight": 0,
+    "accessNode": "access.devnet.nodes.onflow.org:9000"
+  }
+]
