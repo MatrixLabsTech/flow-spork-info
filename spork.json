@@ -47,6 +47,11 @@
   {
     "name": "Mainnet 15",
     "rootHeight": 21291692,
+    "accessNode": "access-001.mainnet15.nodes.onflow.org:9000"
+  },
+  {
+    "name": "Mainnet 15",
+    "rootHeight": 23830813,
     "accessNode": "access.mainnet.nodes.onflow.org:9000"
   }
 ]
